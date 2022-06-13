@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC_C</string>
+    <string name="title">Body Mass Index</string>
+    <string name="text_p">Weight (Kg)</string>
+    <string name="text_a">Height (m)</string>
+    <string name="text_g">Gender </string>
+</resources>
